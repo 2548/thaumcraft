@@ -1,0 +1,70 @@
+4.0.3
+- Enfoque unnerfed de excavación un poco
+- Golems alquimia son ahora menos dumberer
+- Ahora puede combinar focos encantado en un yunque
+- Flujo ahora tiene una pequeña posibilidad de causar olor . Recuerde, esto se puede desactivar en el archivo de configuración
+- Fragmentos de conocimiento ahora se puede utilizar (botón derecho del hecho clic mientras se mantiene ) a otorgar puntos de investigación para cada aspecto primordial
+- Turno de hacer clic con mano ampty en alambiques o frascos se vaciarlos
+- Underped el descubrimiento de la investigación perdida y fija algunas otras cuestiones relacionadas con la investigación
+- Se cierne sobre un aspecto de la página de los aspectos de la thaumonomicon ahora mostrará qué elementos tiene ese aspecto y en qué cantidad.
+- Aumento del costo de golems ligeramente
+- Más correcciones de escaneo para cosas sin datos de bloque de picking válida
+- Fijar para los accidentes cuando se muere con cierta abierta de gui
+- Bosques mágicos toman 3
+- Bioma bosque mágico debe aparecer ahora en algo más que el tipo de mundo por defecto
+- Al utilizar la azada del crecimiento en árboles jóvenes Silverwood y Greatwood el árbol crecerá solamente serverside como se supone que es .
+- Calderos de vainilla se pueden utilizar para undye batas
+- Premura debe quedarse después de la carga en un mundo / dimensión
+- Subido el consumo ignis del horno arcana
+- Estar cerca de su posición "en casa" cuando se coloca artículos / líquidos en un recipiente diferente ya no debería confundir golems
+- Fija lógica fuzzy golem en las actualizaciones de entropía
+- Bloques de piedra arcanos , bloques thaumium y varios otros bloques thaumcraft ahora se pueden utilizar como parte de una pirámide de baliza
+
+4.0.2a
+- Caída del servidor fijo al escanear
+- Añadida la opción de configuración para que el viejo bioma mágico azul. Este es clientside solamente.
+- Arreglado el problema por el que el servidor parece olvidar lo que los nodos que escaneó y hace que el escaneo de los nuevos imposible
+- Volver a agregar la botas de viajeros capacidad de ejecutar los bloques
+
+4.0.2
+- Añadió tablones Greatwood y Silverwood y cambiado algunas recetas para usarlos
+- Se han solucionado algunos aspectos de la investigación
+- Ha añadido un poco de vida a las cosas
+- Escaneo de un elemento hecho a mano con la infusión o la alquimia debe meterse ya no está con su receta
+- Arcano sin forma la elaboración de las recetas ( como los cristales de espejo ) debe ser ahora podrán crear
+- Espejos ahora se pueden desactivar en la configuración
+- Chuleta ahora también le da el conocimiento de todos los aspectos
+- Escaneo de jugadores fijos
+- Escaneo ahora por defecto el modo creativo "pick bloque " función para determinar lo que usted está buscando en
+- Biomas mágicas aparecen ahora correctamente mágico
+- Silverwood y desove Greatwood cambiado ligeramente - Silverwoods no deben ser tan propensos a la destrucción de sus propios nodos más.
+- Llenar frascos de alambiques con exactamente 8 essentia ya no debería devolver viales no válidos
+- Eliminado algunos exploits de investigación
+- Que parece ser un cero desapareció el encanto prisa y se agregó 10 veces su impulso a velocidad normal .
+- En noticias relacionadas : Varita de la excavación era también un poco demasiado bueno . Su más lento y un poco más caro de usar.
+- Eliminado la posibilidad de que la misma runa está vinculado a diferentes aspectos en las notas de investigación. Fue un error puramente cosmético , pero puede causar confusión.
+- Posible solución a lo que está causando minimapa de Rei a tener un derrame cerebral
+- Cachivaches
+
+4.0.1b
+- Evitar algunos fallos de configuración relacionados
+- Se ha corregido algunos fallos de escaneo relacionados
+- Solucionado el fallo al intentar Silverwood frasco o tótem nodos
+- Rareza ajustado de algunas estructuras worldgen
+- Enfoque heladas debería funcionar en todos los rangos ahora y recibe un mayor impulso de la potencia
+- Punto fijo arrastrando en la mesa de trabajo arcano
+
+4.0.1a
+- Redomas essentia y esencia etérea ahora deben apilar correctamente
+- Fijos que hacen a mano los resultados en la mesa de trabajo arcano al hacer clic derecho
+- Recetas de crisol estaban ignorando comodines que hicieron cosas como alumentum uncraftable
+
+4.0.1
+- Se ha corregido algunos fallos de escaneo relacionados
+- Essense wisp ha tenido un cambio de nombre
+- La investigación hecha un poco minúsculo fácil ( basicamente una pequeña posibilidad de más runas glowy por aspecto )
+- Los jugadores comienzan con la investigación apunta más primitivos en nuevos mundos.
+- Cosas nuevas
+
+4.0.0
+- Todas las cosas
